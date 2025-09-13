@@ -1,0 +1,2 @@
+total_cases,correct_predictions,overall_accuracy,mean_confidence,std_confidence,probe_layer
+2002,1253,0.6258741258741258,0.5872015338279418,0.2481320426193387,39
